@@ -1,4 +1,4 @@
-name := "movie-ratings-analysis"
+name := "movie-rating-with-spark"
 
 version := "1.0"
 
